@@ -56,8 +56,8 @@ my %port_descriptions = (
 my @default_ports = keys %port_descriptions;
 
 # Telegram configuration
-my $TELEGRAM_BOT_TOKEN = '7525409832:AAEE8LkyoinAJiv-Ng0VTIIJfSydcQ5vrnM';
-my $TELEGRAM_CHAT_ID   = '1441282758';
+my $TELEGRAM_BOT_TOKEN = 'Your Telegram Bot Token';
+my $TELEGRAM_CHAT_ID   = 'Your Telegram Chat ID';
 
 # Default interval
 my $default_interval = 86400;  # 24 hours
